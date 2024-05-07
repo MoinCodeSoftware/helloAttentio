@@ -1,0 +1,5 @@
+page {
+    includeCSS {
+        greeting = EXT:greeting/Resources/Public/Css/greeting.css
+    }
+}
