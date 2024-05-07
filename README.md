@@ -1,6 +1,12 @@
-# Greeting Extension für TYPO3
+# SayHello: Greeting Extension für TYPO3
+
+Liebes Attentio-Team,
+
+ich freue mich, mich für die ausgeschriebene Stelle als Web Developer zu bewerben. Diese kleine Extension wurde speziell für euch entwickelt und dient als Veranschaulichung, was selbst ohne offizielle Zertifizierung und in kurzer Zeit machbar ist, wenn man über langjährige Erfahrung verfügt.
 
 Die Greeting Extension fügt eine freundliche Begrüßungsnachricht basierend auf der Tageszeit in den Footer einer TYPO3-Website ein.
+
+Einen angenehmen Tag euch noch!
 
 ## Funktionen
 
